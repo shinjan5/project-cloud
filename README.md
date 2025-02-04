@@ -32,10 +32,11 @@ RESTful APIs
 
 *Encryption:*
 Python Cryptography Library (e.g., cryptography, PyCryptodome)
-Cloud Storage:
+*Cloud Storage:*
 AWS S3 or Google Cloud Storage (or any other preferred cloud provider)
-Installation
-Prerequisites
+
+*Installation*
+
 Make sure you have the following installed:
 Python 3.x
 pip (Python package installer)
